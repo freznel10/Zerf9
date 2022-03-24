@@ -1,0 +1,442 @@
+103311391773813
+prettylib
+128x128  SSD1351
+Through hole straight pin header, 1x14, 2.54mm pitch, single row
+Through hole pin header THT 1x14 2.54mm single row
+0
+7
+7
+prettylib
+C_0402_1005Metric-FBS
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+prettylib
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+prettylib
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+prettylib
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+prettylib
+FBS-EVQWGD001
+
+
+0
+6
+6
+prettylib
+FBS-Pimo1
+Through hole straight pin header, 1x05, 1.00mm pitch, single row
+Through hole pin header THT 1x05 1.00mm single row
+0
+9
+9
+prettylib
+FBS2u
+MXALPS
+MXALPS
+0
+48
+4
+prettylib
+FBS2u1
+MXALPS
+MXALPS
+0
+48
+4
+prettylib
+FBS_128x64OLED
+
+
+0
+4
+4
+prettylib
+FBSm2
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+prettylib
+FPC-SMD_AFA07-S12ECA-00
+
+
+0
+14
+14
+prettylib
+FPC-SMD_AFA07-S12ECA-00-1mm 12 top
+
+
+0
+14
+14
+prettylib
+FPC-SMD_FPC05012-09200-.5mm
+
+
+0
+14
+14
+prettylib
+FPC-SMD_FPC05012-09200-.5mm-rev
+
+
+0
+28
+14
+prettylib
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+prettylib
+JLC_SMT_Assembly_Hole
+
+
+0
+0
+0
+prettylib
+LED-0603
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+prettylib
+LED-0603_flipable
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+4
+2
+prettylib
+LOGO
+
+
+0
+0
+0
+prettylib
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+prettylib
+M3_4.6mm_standoff_hole
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
+0
+0
+0
+prettylib
+M3_4mm_standoff_hole
+Mounting Hole 4.3mm, no annular, M4
+mounting hole 4.3mm no annular m4
+0
+0
+0
+prettylib
+MX_KAILH_SOCKET_1U
+MXALPS
+MXALPS
+0
+20
+2
+prettylib
+MX_KAILH_SOCKET_1U-LED
+MXALPS
+MXALPS
+0
+20
+2
+prettylib
+MX_KAILH_SOCKET_1U-LED-FBS
+MXALPS
+MXALPS
+0
+32
+6
+prettylib
+MX_KAILH_SOCKET_1U-LED-FBS-rot
+MXALPS
+MXALPS
+0
+32
+6
+prettylib
+MX_KAILH_SOCKET_2U_2X1U
+MXALPS
+MXALPS
+0
+48
+4
+prettylib
+MX_KAILH_solder_1U-LED-FBS
+MXALPS
+MXALPS
+0
+16
+6
+prettylib
+MX_KAILH_solder_1U-LED-FBS(3305)
+MXALPS
+MXALPS
+0
+16
+6
+prettylib
+MX_KAILH_solder_1U-LED-FBS-rot
+MXALPS
+MXALPS
+0
+16
+6
+prettylib
+MX_KAILH_solder_1U-LED-FBS-rot(3305)
+MXALPS
+MXALPS
+0
+16
+6
+prettylib
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+prettylib
+MountingHole_M3_4mm
+Mounting Hole 3.2mm, M3
+mounting hole 3.2mm m3
+0
+1
+1
+prettylib
+PIM374 1.12 OLED
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+prettylib
+PIM374 1.12 OLED-no silk
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+prettylib
+PinHeader_1x06_P2.54mm_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+prettylib
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+prettylib
+RotaryEncoder_Alps_EC11E-cutout
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+prettylib
+SK6812_mini_e_flipable
+
+
+0
+12
+4
+prettylib
+SK6812_mini_e_flipable-fbs
+
+
+0
+12
+4
+prettylib
+SK6812_mini_e_flipable-fbsv3
+
+
+0
+12
+4
+prettylib
+SK6812_mini_flipable
+MXALPS
+MXALPS
+0
+12
+4
+prettylib
+SMD-0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+prettylib
+SMD-0805
+SMD 0805 (2012 Metric), square (rectangular)
+capacitor
+0
+2
+2
+prettylib
+SMD_Tacticle_Switch_TS24CA
+
+
+0
+4
+2
+prettylib
+SMD_Tacticle_Switch_TS24CA_flipable
+
+
+0
+8
+2
+prettylib
+SMD_Tacticle_Switch_TS24CA_flipable-TEN
+
+
+0
+8
+4
+prettylib
+SOLDER_JUMPER_2
+
+solder jumper bridge configuration
+0
+2
+2
+prettylib
+SOLDER_JUMPER_3
+
+solder jumper bridge configuration
+0
+3
+3
+prettylib
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+prettylib
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+prettylib
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+prettylib
+SSD1107_DISPLAY
+0.9n Inch 64x128 I2C OLED LCD Display
+
+0
+12
+4
+prettylib
+TE_1-1734839-2_1x12-1MP_P0.5mm_FBS
+TE FPC connector, 12 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+42
+13
+prettylib
+TE_1-1734839-2_1x12-1MP_P0.5mm_Horizontal
+TE FPC connector, 12 top-side contacts, 0.5mm pitch, SMT, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1734839%7FC%7Fpdf%7FEnglish%7FENG_CD_1734839_C_C_1734839.pdf%7F4-1734839-0
+te fpc 1734839
+0
+28
+13
+prettylib
+TSSOP-8_4.4x3mm_P0.65mm
+8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+prettylib
+USB-C-C168688
+
+
+0
+16
+11
+prettylib
+USB-C-C168688-s
+
+
+0
+16
+11
+prettylib
+USB_C_Receptacle_MUP_U22401
+USB Type-C receptacle for USB 2.0
+usb usb-c 2.0 pd
+0
+20
+17
+prettylib
+WS2812C-2020
+
+
+0
+4
+4
+prettylib
+pg1350-R-OUTline
+
+
+0
+0
+0
+prettylib
+pg1350-R-OUTline2
+
+
+0
+0
+0
