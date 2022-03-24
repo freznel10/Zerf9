@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "mx_track")(type "KiCad")(uri "${KIPRJMOD}/mx_track.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,60 @@
+Comment,Designator,Footprint,LCSC Part #
+"Buzzer Buzzer, polarized",BZ1,Piezo-KLJ-1625,C201041
+cap_100nF_16v_0402 ,"C1,C2,C3,C4,C5,C6,C7,C8,C9,C11,C12,C17,C20,C21,C22,C23,C24,C25,C26,C27,C28,C29,C30,C31,C32,C33,C34,C35,C36,C37,C38,C39,C40,C41,C43,C44,C45,C46,C47,C48,C49,C50,C51,C52,C53,C54,C55,C56,C57,C58,C59,C60,C61,C63,C64,C65,C66,C67,C68",C_0402_1005Metric-FBS,C1525
+cap_4.7uF_10v_0402 ,"C10,C18",C_0402_1005Metric-FBS,C23733
+cap_20pF_50v_0402 ,"C13,C15",C_0402_1005Metric-FBS,C1554
+cap_1uF_10v_0402 ,"C14,C16",C_0402_1005Metric-FBS,C52923
+cap_10uF_10v_0402 ,C19,C_0402_1005Metric-FBS,C19702
+D ,"D1,D2,D6,D7,D8,D9,D10,D11,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D40,D41,D55,D57,D58,D59",D_SOD-123,
+SK6812MINI-E ,"D3,D4,D5,D12,D47,D48,D49,D50,D51,D52,D53,D56",SK6812Mini-E,
+"SMF5.0A Unidirectional TVS, 5V",D42,D_SOD-123FL,C193402
+"PMEG2010AEB 20V 1A Schottky Diode, SOD-123","D43,D44,D54",D_SOD-523,C282563
+"1N4148 Diode, small symbol",D45,D_SOD-523,C68948
+SMD-LED-WHITE_0402_ ,D46,LED_0402,C74342
+Drill Mountpoint Mounting Hole with connection,"DRILL1,DRILL3,DRILL4,DRILL5,DRILL7,DRILL8,DRILL9,DRILL11,DRILL12",MountingHole_3.2mm_M3_Pad_Via,
+Drill Mountpoint Mounting Hole with connection,"DRILL2,DRILL10",MountingHole_2.2mm_M2_Pad_Via,
+Drill Mountpoint Mounting Hole with connection,DRILL6,MountingHole_3.2mm_M3_Pad_Via,
+SMD0805-100 ,F2,F0805,C70061
+4A/0805 ,"FB1,FB2,FB3,FB4,FB5,FB6,FB7,FB8,FB9,FB10,FB11,FB12,FB13,FB14",L-0805_2012Metric,C2847222
+Hole ,"H2,H3,H4",JLC_SMT_Assembly_Hole,
+"OLED Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J1,PIM374 1.12 OLED,
+"Conn_01x12_Female Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)",J2,PinHeader_1x12_P2.54mm_Vertical,
+"Conn_01x04_Female Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",J3,PinHeader_1x04_P2.54mm_Vertical,
+TYPE-C-31-M12_13 ,J4,HRO-TYPE-C-31-M-12-HandSoldering-NoSBU-11,C165948
+"Conn_01x05_Female Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",J5,Pimoroni Haptic Buzz DRV2605L Driver,
+HRO-TYPE-C-31-M-12 USB 2.0-only Type-C Receptacle connector,J6,HRO-TYPE-C-31-M-12-HandSolderingwithSBU,C165948
+"Conn_01x12_Female Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)","J7,J15",FPC-SMD_FPC05012-09200-.5mm-rev,C479750
+"128x128_SPI_OLED Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)",J8,128x128  SSD1351,
+"Conn_01x01_Female Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)","J9,J10",PinSocket_1x01_P2.54mm_Vertical,
+PAD_SQUARE_1MM ,"J11,J12,J13,J14",PAD_SQUARE_1MM,
+"OLED Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",J16,PinHeader_1x6_P2.54mm_Vertical,
+"Jumper_NO_Small Jumper, normally open, small symbol","JP1,JP2,JP3,JP4,JP5,JP6,JP7,JP8,JP9,JP10,JP11,JP12,JP13,JP14,JP15,JP16,JP17,JP18,JP19,JP20,JP21,JP22,JP23,JP24,JP27",SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm,
+"JU1 Solder Jumper, 3-pole, open",JP25,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+"JU2 Solder Jumper, 3-pole, open",JP26,SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm,
+SMD-SWITCH-TACTILE-SPST-NO_4P-3.0MMx2.6MM_ ,K1,SMD_Tacticle_Switch_TS24CA,C393942
+"Nexperia PUMD3,115 1NPN,1PNP Pre-biased dual transistor, 10K/10K, SOT-23","Q3,Q4",SOT-363_SC-70-6_Handsoldering,C193527
+r_5.1k_0402_1p ,"R1,R2",R_0402_1005Metric,C25905
+4.7k Resistor,"R3,R6",R-0805_2012Metric,C269746
+10k ,"R4,R5,R7,R8,R9,R10,R11,R19,R20,R21,R22",R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C328298
+r_4.7k_0402_1p ,R12,R_0402_1005Metric,C25900
+r_10k_0402_1p ,R13,R_0402_1005Metric,C25744
+r_75_0402_1p ,"R14,R17",R_0402_1005Metric,C25133
+r_470_0402_1p ,R15,R_0402_1005Metric,C25117
+r_100k_0402_1p ,R16,R_0402_1005Metric,C25741
+5.1k Resistor,R18,R_0402_1005Metric_Pad0.72x0.64mm_HandSolder,C325524
+SW_PUSH_LED ,"SW1,SW3,SW6,SW7,SW12,SW16,SW17,SW19,SW21,SW22,SW24,SW26,SW27,SW29,SW31,SW32,SW34,SW36,SW37",MX_KAILH_SOCKET_1U-LED-FBS,
+SW_PUSH_LED ,"SW2,SW4,SW10,SW11,SW15,SW18,SW20,SW23,SW25,SW28,SW30,SW33,SW35",MX_KAILH_SOCKET_1U-LED-FBS-rot,
+Rotary_Encoder_Switch ,SW5,EVQWGD001-reversible,
+SW_PUSH_LED ,"SW8,SW13",MX_KAILH_solder_1U-LED-FBS-rot(3305),
+SW_PUSH_LED ,"SW9,SW14",MX_KAILH_solder_1U-LED-FBS(3305),
+"RotaryEncoder_Switch Rotary encoder, dual channel, incremental quadrate outputs, with switch",SW38,ALPS_EC11E,
+"SW_Push Push button switch, generic, two pins","SW39,SW40,SW41",MouseSwitch-FBS,
+"SRV05-4 ESD Protection Diodes with Low Clamping Voltage, SOT-23-6","U1,U7",SOT-23-6,C85364
+Hole ,U2,SK8707-smaller hole,
+"W25Q128JVSIQ 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",U3,SOIC-8_5.23x5.23mm_P1.27mm,C97521
+"EEPROM/SPI FLASH 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8",U6,SOP-8_3.9x4.9mm_P1.27mm,C8741
+"TLV75733PDBVR 300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",U9,SOT-23-5,C485517
+"STM32F411CEU6 ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 100MHz, 1.7-3.6V, 37 GPIO, LQFN-48",U10,QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm_ThermalVias,
+"SN74LV1T34DBVR Single Buffer, SC70-5",U11,SOT-23-5_HandSoldering,C100024
+jumper_smd ,"W1,W2,W3,W4,W5,W6,W7,W8,W9,W10,W11,W12,W13,W14,W15,W16,W17,W18,W19,W20,W21,W22,W23,W24",Jumper,
+SMD-CRYSTAL-8MHZ-20PF-10PPM_2P-5.0X3.2MM_ ,Y1,X2-SMD-5.0X3.2X1.3MM,C242220
